@@ -1,0 +1,48 @@
+.task-container{
+    border: 2px solid purple;
+    width:85%
+ }
+
+ .task-list-heading{
+     font-size:10px;
+     color: violet;
+     font-weight: 400
+
+ }
+ .form__field{
+     border:0;
+     border-bottom: 2px solid gray;
+     text-decoration:none;
+ }
+
+ ol{
+     list-style-type:none ;
+ }
+ .gray{
+     color: gray;
+     
+ }
+ .list-text{
+    text-transform: capitalize;
+    font-size: large;
+    color: purple
+
+}
+.sign{
+    display:none;
+}
+.sign:hover{
+    display:block
+}
+.bu{
+    border:0
+}
+
+.trash{
+    border:0;
+    text-decoration:none;
+}
+
+.cap{
+    text-transform: capitalize;
+}
